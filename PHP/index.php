@@ -1,0 +1,1 @@
+//archibo index para php 
