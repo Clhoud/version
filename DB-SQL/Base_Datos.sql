@@ -1,0 +1,1 @@
+######ARCHIVO DE GENERACIÖN DE LA BASE DATOS########## 
